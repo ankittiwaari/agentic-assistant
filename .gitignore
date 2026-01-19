@@ -13,3 +13,4 @@ wheels/
 trials
 .vscode
 chroma_langchain_db
+.env
