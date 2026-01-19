@@ -12,3 +12,4 @@ wheels/
 #script playground
 trials
 .vscode
+chroma_langchain_db
