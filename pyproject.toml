@@ -1,0 +1,18 @@
+[project]
+name = "rag-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "fastapi>=0.122.0",
+    "langchain>=1.0.3",
+    "langchain-chroma>=1.0.0",
+    "langchain-community>=0.4.1",
+    "langchain-ollama>=1.0.0",
+    "langchain-pymupdf4llm>=0.5.0",
+    "langserve>=0.3.3",
+    "sse-starlette>=3.0.3",
+    "tavily-python>=0.7.13",
+]
